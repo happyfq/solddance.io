@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(150deg, rgba(39,59,78,255) 0%, rgba(255, 255, 255, 0) 35%), #151026;
+  color: #fff;
+}
+
+.wallet-adapter-button-trigger {
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+}

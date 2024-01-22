@@ -1,0 +1,218 @@
+[
+    {
+        "dance": "Bank Head Bounce",
+        "era": "90",
+        "origin": null,
+        "description": "The Bankhead Bounce originated on the West Side of Atlanta in an area and street known as Bankead. It was first popularized in the song Wassup Wassup by rappers L. Diamond Atkins ft. D-Roc in 1995. It was also seen in Outkast's Benz or Beamer music video and was cemented in the mainstream when Michael Jackson performed it at the 1995 MTV Music Video Awards.",
+        "link": "https://youtu.be/4qXcDfmjLIY",
+        "pioneers": "Diamond Atkins,D-Roc,Kevin Lee,Outkast",
+        "otherCategories": "Culture,Street,Trend"
+    },
+    {
+        "dance": "Beat Your Feet",
+        "era": "90",
+        "origin": "DMV",
+        "description": "Starting in the DC go-go music scene, deriving originally from a dance called the hee-haw",
+        "link": "https://youtu.be/S5KjrOuscSk",
+        "pioneers": "Beat Your Feet Kingz,Crazy Legs",
+        "otherCategories": "Culture,Footwork,Street"
+    },
+    {
+        "dance": "Boogaloo",
+        "era": "60",
+        "origin": "Oakland, CA",
+        "description": "Boogaloo, a style of funk dance started in Oakland in the 60s, is a pioneer in many foundational Hip Hop dances such as Popping, Turf and Robot dances. It includes wiggling, illusions, popping and freestyle elements.",
+        "link": "https://youtu.be/8ifbd3-KVIo",
+        "pioneers": "Electric Boogaloo",
+        "otherCategories": "Culture,Street"
+    },
+    {
+        "dance": "Breaking",
+        "era": "70",
+        "origin": "Bronx, NY",
+        "description": "Started by American youth in urban New York in the early 70s, Breakdancing is one of the pillars of Hip Hop and uses four main variations: toprock, downock, power moves and freezes.",
+        "link": null,
+        "pioneers": "Boogaloo Shrimp",
+        "otherCategories": "Animation,Culture,Footwork,Ground,Street"
+    },
+    {
+        "dance": "East Side Stomp",
+        "era": "90",
+        "origin": "Decatur, GA",
+        "description": "Later known as the A-Town Stomp, the East Side Stomp was started in Decatur, GA and popularized by Youngbloodz.",
+        "link": "https://youtu.be/-ro8eaplsV8",
+        "pioneers": "Blowhead,Attic Crew",
+        "otherCategories": "Street,Trend"
+    },
+    {
+        "dance": "Flexin",
+        "era": "90",
+        "origin": "Brooklyn, NY",
+        "description": "Flexin was started in Brooklyn, NY and involves rhythmic contortion, slides, floor moves and many subsets of styles such as Bruk Up, Bone breaking and Get Lo.",
+        "link": "https://youtu.be/L5J6fj_jyDQ",
+        "pioneers": null,
+        "otherCategories": "Culture,Ground,Street"
+    },
+    {
+        "dance": "Floss",
+        "era": "00",
+        "origin": "Atlanta, GA",
+        "description": "First seen in the 00s but later popularized by the Backpack Kid, this popular trend dance uses counter arm and hip movements, creating a comical, dental flossing motion.",
+        "link": "https://youtu.be/uD3CZM64mos",
+        "pioneers": "Ryan Myall,Backpack Kid",
+        "otherCategories": "Trend"
+    },
+    {
+        "dance": "Gangsta Walk",
+        "era": "80",
+        "origin": "Memphis, TN",
+        "description": "Gangsta Walking is a street dance started in Memphis, TN in the 90s. It is the foundation of Memphis Jookin and incorporates various disciplines and styles including buckin, choppin, icing, buck jumps and pacmans.",
+        "link": "https://youtu.be/QrpZdXjjfNY",
+        "pioneers": null,
+        "otherCategories": "Culture,Footwork,Street"
+    },
+    {
+        "dance": "Harlem Shake",
+        "era": "80",
+        "origin": "Harlem, NY",
+        "description": "Originally called the Albee after creator Al B. created the dance in 1981, the Harlem Shake was popularized in 2001when it featured heavily in G. Dep music video for the song Let's Get It.",
+        "link": "https://youtu.be/Mdeu5aGwwWI",
+        "pioneers": "Al B. (creator),Maurice Motion Strayhorn,Jesse Smiley Rutland,Kirkland Dirty Kirt Young,Joseph No Bones Collins",
+        "otherCategories": "Trend"
+    },
+    {
+        "dance": "Hit Dem Folks",
+        "era": "10",
+        "origin": "Columbus, GA",
+        "description": "Hit dem folks is a popular trend dance started in Columbus, GA in the 10s.",
+        "link": "https://youtu.be/yVYE88RMd4E",
+        "pioneers": "Meechie,Toosi",
+        "otherCategories": "Street,Trend"
+    },
+    {
+        "dance": "House",
+        "era": "70",
+        "origin": "Chicago & NY",
+        "description": "House dance has its roots in the underground House music scenes in New York and Chicago during the 70s.",
+        "link": "https://youtu.be/uGwzoJ7LFMs",
+        "pioneers": null,
+        "otherCategories": "Culture,Footwork"
+    },
+    {
+        "dance": "Jit",
+        "era": "80",
+        "origin": "Detroit, MI",
+        "description": "Jit is a ghettotech style of dancing started which relies heavily on fast footwork combinations, drops, spins and improvisations.",
+        "link": "https://youtu.be/BazzdULFK_0",
+        "pioneers": "Jitterbugs,Haleem 'Stringz' Rasul",
+        "otherCategories": "Culture,Footwork,Street"
+    },
+    {
+        "dance": "Jookin",
+        "era": "90",
+        "origin": "Memphis, TN",
+        "description": "Memphis Jookin evolved from Gangsta Walking (80s) to be what is known today in the 90s. It includes derivative styles such as Buckin, Choppin and uses a multitude of slides, intricate foot combos and signature buck jumps.",
+        "link": "https://youtu.be/aULX7OdQ13A",
+        "pioneers": "Charles 'Lil Buck' Riley,Tarrik Moore,G Nerd,Dr. Rico,Daniel Price,Cino,Ladia Yates,Gino,BoBo,Jaquency",
+        "otherCategories": "Animation,Culture,Footwork,Line,Street"
+    },
+    {
+        "dance": "Jukin Footwork",
+        "era": "90",
+        "origin": "Chicago, IL",
+        "description": "Footwork's early 90s origins are based in the blend of electronic dance music with elements of ghetto house in Hip Hop.",
+        "link": "https://youtu.be/f06H1ezvjEg",
+        "pioneers": null,
+        "otherCategories": "Culture,Footwork,Street"
+    },
+    {
+        "dance": "Krump",
+        "era": "00",
+        "origin": "Los Angeles, CA",
+        "description": "Formed in the 2000s in South Central LA as a means of positive expression to escape violent environments, KRUMP was started by Ceasare Tight Eyez Willis, and Jo'Artis Big Mijo Ratti and later popularized by the movie RIZE. It involves big and powerful exaggerated movements and is often conducted in battles.",
+        "link": "https://youtu.be/_cA9DAVfniI",
+        "pioneers": "Ceasare Tight Eyez Willis,Jo'Artis Big Mijo Ratti",
+        "otherCategories": "Animation,Culture,Street"
+    },
+    {
+        "dance": "Litefeet",
+        "era": "00",
+        "origin": "Harlem, NY",
+        "description": "Litefeet is a modern evolution of breakdancing and bboying. Started in the 2000s, it incorporates special moves like hat/shoe tricks and trend dances.",
+        "link": "https://youtu.be/fpasBMvRR2E",
+        "pioneers": "Goofy,Mr. Youtube",
+        "otherCategories": "Culture,Ground,Street"
+    },
+    {
+        "dance": "Locking",
+        "era": "60",
+        "origin": "Oakland, CA",
+        "description": "Locking is a funk dance also associated with Hip Hop that was started by Don Campbell in the 60s. Originally derived from a dance called the Lock, Campbell pioneered a new dance by adding trend dances to create what would become Locking.",
+        "link": "https://youtu.be/Zl61dseQvbY",
+        "pioneers": "Don Campbell",
+        "otherCategories": "Culture,Street"
+    },
+    {
+        "dance": "Nae Nae",
+        "era": "10",
+        "origin": "Atlanta, GA",
+        "description": "The Nae Nae is a Hip Hop trend dance started in 2013 and introduced by We Are Toonz in their video Drop That NaeNae.",
+        "link": "https://youtu.be/I_e3G3X-CYA",
+        "pioneers": "We Are Toonz",
+        "otherCategories": "Trend"
+    },
+    {
+        "dance": "Poppin",
+        "era": "70",
+        "origin": "Oakland, CA",
+        "description": "Popping was derived from the earlier Boogaloo street dance movement taking place in Oakland, California during the late 1960s",
+        "link": "https://youtu.be/zQCSlMxX9WA",
+        "pioneers": null,
+        "otherCategories": "Animation,Culture,Street"
+    },
+    {
+        "dance": "Ragtop",
+        "era": "90",
+        "origin": "Atlanta, GA",
+        "description": "Started in Atlanta in the early 90s, the RagTop is an intense line dance using repetitive stomping and movement of legs.",
+        "link": "https://youtu.be/BaeHQfW2MF0",
+        "pioneers": null,
+        "otherCategories": "Street,Trend"
+    },
+    {
+        "dance": "Shoot",
+        "era": "10",
+        "origin": "Memphis, GA",
+        "description": "First seen in the video of the same name, the Shoot dance took over mainstream trend dancing and achieved world wide popularity quickly. The dance involves jumping up and down on one leg while simultaneously kicking out the other and using synced arm movements.",
+        "link": "https://youtu.be/P1o4dGFDrhc",
+        "pioneers": "Blockboy JB",
+        "otherCategories": "Street,Trend"
+    },
+    {
+        "dance": "Stanky Leg",
+        "era": "00",
+        "origin": "Dallas, TX",
+        "description": "Popularized by the song \u201cStanky Legg\u201d released by the hip-hop group GS Boyz in 2009, the Stanky Leg dance involves extending one leg and circling that knee, and then doing the same with the other leg.",
+        "link": "https://youtu.be/ewufRwrayTI",
+        "pioneers": "GS Boys",
+        "otherCategories": "Trend"
+    },
+    {
+        "dance": "Turfin",
+        "era": "90",
+        "origin": "Oakland, CA",
+        "description": "Turf was influenced by Boogaloo of the 60s and includes story telling and other dance style concepts such as tutting, flexing, waving and animation.",
+        "link": "https://youtu.be/g-t01opsPos",
+        "pioneers": null,
+        "otherCategories": "Animation,Culture,Footwork,Street"
+    },
+    {
+        "dance": "Yeek",
+        "era": "80",
+        "origin": "Atlanta, GA",
+        "description": "Started in skating rinks and made popular in dance competitions and nightclubs in Atlanta in the 80's, YEEK (Your Energetic Explosive Klimax) is a style of dance representing a buildup of emotions, unbridled energy and raunchy innuendo.",
+        "link": "https://youtu.be/Z_cvfxQlcLk",
+        "pioneers": "Anthony \u201cA Dog,\u201d Sweet Melodi,Ted Rush,MC Lightfoot,Hilton Hollowa,Courtney \u201cChicken Little\u201d,DJ Cutmaster Swiff",
+        "otherCategories": "Animation,Culture,Line,Street"
+    }
+]

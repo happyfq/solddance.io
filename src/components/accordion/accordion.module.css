@@ -1,0 +1,113 @@
+/* Updated CSS to move content up */
+.accordion {
+  font-family: Arial, sans-serif;
+  width: 500px; /* Set a maximum width for the accordion */
+  margin: 0 auto; /* Center the accordion horizontally */
+}
+
+/* Add transition to the background color of the accordion header */
+.accordion-header {
+  cursor: pointer;
+  background: linear-gradient(to bottom, transparent 50%);
+  position: relative;
+  transition: background-color 0.5s ease, transform 0.5s ease;
+  margin-left: 5px;
+  margin-right: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Add padding to the left of the text to avoid overlapping */
+.accordion-header-text {
+  padding-left: 10px; /* Adjust the padding as needed */
+}
+
+
+.accordion-header.active {
+  background-color: white;
+  transform: translateY(5px);
+}
+
+.accordion-header.visible {
+  opacity: 1;
+}
+
+.accordion-header.invisible {
+  opacity: 0;
+}
+
+/* Adjust the margin of the content container */
+.accordion-content-container {
+  margin-top: 5px;
+  pointer-events: none;
+}
+
+.accordion-content {
+  z-index: 0;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, opacity 0.5s ease;
+  margin-left: 3px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* the insides of the header (the content) */
+.accordion-content.open {
+  opacity: 1;
+  max-height: 1000px;
+  transform: translate(0%, -30px);
+  margin-bottom: -30px;
+ 
+}
+
+.accordion_content {
+  display: none;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.accordion_content.open {
+  display: block;
+  opacity: 1;
+  max-height: 1000px;
+  transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+
+}
+
+.accordion-item {
+  border: 1.5px solid gray;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.icon {
+  transform: rotate(0);
+  transition: all 1s ease;
+  height: 16px;
+  margin-top: 7.5px;
+}
+
+.icon-expanded {
+  transform: rotate(180deg);
+  position: relative;
+  margin-top: 7.5px;
+  margin-right: 5px;
+  height: 16px;
+}
+
+@media screen and (max-width:960px) { /* For some reason when an accordion item is open there might be space at the top, increasing the width seems to fix it however */
+  
+  .accordion {
+    width: 325px;
+  }
+
+}

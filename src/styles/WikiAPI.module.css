@@ -1,0 +1,53 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  gap: 35px; /* Adjust the gap between cards as needed */
+  max-width: 1200px; /* Limit the maximum width of the grid */
+  margin: 0 auto; /* Center the grid */
+  flex-wrap: wrap;
+}
+
+/* Base styles for each card container */
+.card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  background-color: #1b2035; /* Card background color */
+  padding: 10px;
+  border-radius: 10px;
+  color: #e8e8ea;
+}
+
+/* Card content styles */
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* Card title styles */
+.cardTitle {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+/* Card subtitle styles */
+.cardSubtitle {
+  font-size: 1rem;
+  color: #888;
+}
+
+/* Card text styles */
+.cardText {
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}

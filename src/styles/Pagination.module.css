@@ -1,0 +1,170 @@
+/* Pagination.module.css */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+  /* height: 85vh; */
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.pagination ul {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  /* transform: translateX(50px); */
+}
+
+.pagination a {
+  display: inline-block;
+  padding: 8px;
+}
+
+
+.pagination li {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+  cursor: default;
+  padding: 10px;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transition: all 0.1s ease;
+
+}
+
+.pagination li:hover {
+  outline: 2px solid black; /* Use outline instead of border for hover effect */
+  padding: 8px; /* Adjust the padding to maintain the original size */
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+
+.active {
+  background-color: black;
+  border-radius: 2px;
+  color: white;
+
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.3;
+  cursor: default;
+
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  gap: 5px; /* Adjust the gap between cards as needed */
+  max-width: 1200px; /* Limit the maximum width of the grid */
+  margin: 0 auto; /* Center the grid */
+  flex-wrap: wrap;
+}
+
+/* Base styles for each card container */
+.card {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  background-color: #fff; /* Card background color */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Card content styles */
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  
+}
+
+/* Card title styles */
+.cardTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  
+}
+
+/* Card subtitle styles */
+.cardSubtitle {
+  font-size: 1rem;
+  color: #888;
+  
+}
+
+/* Card text styles */
+.cardText {
+  font-size: 1rem;
+}
+
+.paginationContainer { /* This is a brute force solution to make the Pagination component stay centered */
+  margin-top: 30px; /* Add spacing to keep at least 20px away from the top */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap; /* Ensure pagination wraps to a new line if necessary */
+  margin-bottom: center;
+  right: 43%; 
+  position: relative;
+  bottom: 0;
+  overflow-wrap: break-word;
+  /* transform: translateX(43%); */
+}
+
+@media screen and (max-width:1200px) 
+{  
+  .container{
+    padding-bottom: 2rem;
+    overflow-wrap: break-word;
+    padding-left: -200px;
+    padding-right: -200px;
+    margin-left: 1px;
+    margin-right: 1px;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .paginationContainer {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    top: 100%;
+    align-self: center;
+    width: 100%;
+    margin-bottom: center;
+    right: 0%;
+    position: relative;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); 
+    gap: 10px; 
+    max-width: 100%; 
+    margin: 0 auto; 
+
+  
+    
+  }
+
+}
+  /* Leaving this CSS module here for now because the import statement isn't working for some reason */
